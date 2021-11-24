@@ -4,7 +4,6 @@
 #### heading4
 ##### heading5
 ###### heading6
-####### heading7
 
 *this is my first repository*
 
@@ -24,5 +23,11 @@ main list
 - sub list
   - sub list2
     - sub list3
+
+s.no|name|branch
+----|-----|-----
+1|deepika|it
+2|bhavya|mpc
+
     
     
