@@ -13,4 +13,16 @@
 ***this line is both italic and bold font***
 
 - heading
-- 
+- heading2
+- heading3
+
+1. heading 
+2. heading2
+3. heading3
+
+main list
+- sub list
+  - sub list2
+    - sub list3
+    
+    
